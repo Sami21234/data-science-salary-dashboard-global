@@ -10,7 +10,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in [Data_Science_Salary_Dashboard_1(UT).xlsx](Data_Science_Salary_Dashboard_1(UT).xlsx).
+My final dashboard is in [Data_Science_Salary_Dashboard_Global.xlsx](https://d.docs.live.net/b60c66bf640a71f3/Desktop/data-science-salary-dashboard-india/dashboard/Data_Science_Salary_Dashboard_1(UT).xlsx).
 
 ### Excel Skills Used
 
